@@ -27,4 +27,4 @@ Stay productive and organized without leaving your browser!
 
 ## Privacy Policy
 
-This extension only stores data locally in your browser’s local storage. No data is sent or collected remotely
+This extension only stores data locally in your browser’s local storage. No data is sent or collected remotely.
