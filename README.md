@@ -24,3 +24,6 @@ Stay productive and organized without leaving your browser!
 3. Enable Developer mode (top right).
 
 4. Click "Load unpacked" and select the folder containing the extension files.
+
+Privacy Policy
+This extension only stores data locally in your browser’s local storage. No data is sent or collected remotely
